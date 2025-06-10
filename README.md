@@ -18,6 +18,7 @@
 
 3. **API Endpoints**
 
+```
     | Method  | Endpoint                                            | Description                        |
     | ------- | ----------------------------------------------------| ---------------------------------  |
     | POST    | `/account/register/`                                | Register a new user                |
@@ -44,5 +45,7 @@
     |         | `api/schema/swagger-ui/`                            | To see different APIs              |
 
     |         | `silk/`                                             | To analyse the queries to database |
+
+```
 
 This project is a work in progress, and I'm continuously learning and improving. Contributions and feedback are welcome!
