@@ -9,11 +9,10 @@
     - CORS Headers
 
 2. **Project Structure**
-
-    ├── account/        # user creation and management  
-    ├── book_review/    # Main project directory
-    ├── book/           # book and review creation api 
-    ├── manage.py
+        ├── account/        # user creation and management  
+        ├── book_review/    # Main project directory
+        ├── book/           # book and review creation api 
+        ├── manage.py
 
 3. **API Endpoints**
 
